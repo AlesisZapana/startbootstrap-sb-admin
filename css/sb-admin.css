@@ -30,7 +30,7 @@ body.fixed-nav {
   width: 50px;
   height: 50px;
   text-align: center;
-  color: white;
+  color: red;
   background: rgba(52, 58, 64, 0.5);
   line-height: 45px; }
   .scroll-to-top:focus, .scroll-to-top:hover {
@@ -149,7 +149,7 @@ body.fixed-nav {
 
 @media (min-width: 992px) {
   #mainNav.fixed-top .navbar-sidenav {
-    height: calc(100vh - 1px); }
+    height: calc(100vh - 112px); }
   #mainNav.fixed-top .sidenav-toggler {
     position: absolute;
     top: 0;
