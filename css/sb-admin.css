@@ -23,7 +23,7 @@ body.fixed-nav {
   padding-top: 1rem; }
 
 .scroll-to-top {
-  position: fixed;
+  position: center;
   right: 15px;
   bottom: 3px;
   display: none;
@@ -36,7 +36,7 @@ body.fixed-nav {
   .scroll-to-top:focus, .scroll-to-top:hover {
     color: white; }
   .scroll-to-top:hover {
-    background: #ffffff; }
+    background: #343a40; }
   .scroll-to-top i {
     font-weight: 800; }
 
