@@ -31,12 +31,12 @@ body.fixed-nav {
   height: 50px;
   text-align: center;
   color: white;
-  background: rgba(70, 58, 64, 0.9);
+  background: rgba(52, 58, 64, 0.5);
   line-height: 45px; }
   .scroll-to-top:focus, .scroll-to-top:hover {
     color: white; }
   .scroll-to-top:hover {
-    background: #343a40; }
+    background: #ffffff; }
   .scroll-to-top i {
     font-weight: 800; }
 
