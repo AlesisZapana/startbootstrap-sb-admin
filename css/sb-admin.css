@@ -346,4 +346,5 @@ footer.sticky-footer {
     width: calc(100% - 55px); } }
 
 #barraLateral {
-color:red; }
+color:red;
+font-size: 0.7rem;}
