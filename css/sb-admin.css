@@ -149,7 +149,7 @@ n
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    margin-top: calc(100vh - 45px);
+    margin-top: calc(100vh - 43px);
   }
   #mainNav.fixed-top .sidenav-toggler > .nav-item {
     width: 250px;
