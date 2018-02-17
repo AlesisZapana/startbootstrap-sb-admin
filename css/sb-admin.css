@@ -3,7 +3,9 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/master/LICENSE)
  */
-
+#exampleAccordion.colored{
+  background-color: rgba(255, 255, 255, 0.9);
+}
  
 #mainNav .navbar-collapse .navbar-nav .nav-item .nav-link {
   cursor: pointer;
