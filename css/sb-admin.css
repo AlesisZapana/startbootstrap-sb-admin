@@ -3,8 +3,7 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-sb-admin/blob/master/LICENSE)
  */
-
-
+ 
 #mainNav .navbar-collapse .navbar-nav .nav-item .nav-link {
   cursor: pointer;
 }
@@ -149,7 +148,7 @@ n
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    margin-top: calc(100vh - 45px);
+    margin-top: calc(100vh - 43px);
   }
   #mainNav.fixed-top .sidenav-toggler > .nav-item {
     width: 250px;
